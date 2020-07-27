@@ -13,10 +13,63 @@ Below is a list of things that can be achieved using Pandas:
 
 <br>
 
+## Get a sample data to work with
+
+Stack Overflow survey can be good sample to start learning analysis.
+
+Browse to:
+https://insights.stackoverflow.com/survey/
+
+And download a Zip file for any year and extract it in your machine.
+
+<br>
+
 ## Install Pandas (on Virtual Environment)
 
+Create a new environment:
+
+```bash
+$ python3 -m venv pandas_env
+```
+
+And activate it:
+
+```bash
+$ source pandas_env/bin/activate
+```
+
+Install Pandas:
+
+```bash
+pip install pandas
+```
+
+<br>
+
+## Jupyter Notebook
+It's not a necessity to have Jupyter Notebooks. But it allows to see data more easily in the browser.
+
+Install jupyter with:
+
+```bash
+$ pip install jupyterlab
+```
+
+And run it in a separate terminal - with the same virtual environment. Because the Jupyter will run as long as the terminal is active.:
+
+```bash
+$ jupyter notebook
+```
+
+In the browser app, create a new Python3 Notebook.<br>
+Give it a name (instead of Untitled).
+
+<br>
+
+We are ready to use **Pandas**.
 
 <br>
 
 ### References
 * [Top 10 Python Libraries for Data Science](https://towardsdatascience.com/top-10-python-libraries-for-data-science-cd82294ec266)
+* [Python Pandas Tutorial](hhttps://youtu.be/ZyhVh-qRZPA)
