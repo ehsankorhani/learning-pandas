@@ -11,6 +11,15 @@ Below is a list of things that can be achieved using Pandas:
 * Impute missing files, handle missing data or NANs
 * Plot data with histogram or box plot
 
+
+<br>
+
+## Table of Contents
+
+0. Install Pandas
+1. Getting started
+
+
 <br>
 
 ## Get a sample data to work with
