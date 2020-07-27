@@ -18,7 +18,7 @@ Below is a list of things that can be achieved using Pandas:
 
 0. Install Pandas
 1. Getting started
-
+2. DataFrame and Series data types
 
 <br>
 
