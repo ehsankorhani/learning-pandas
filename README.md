@@ -20,6 +20,7 @@ Below is a list of things that can be achieved using Pandas:
 1. Getting started
 2. DataFrame and Series data types
 3. Indexes
+4. Filtering
 
 <br>
 
