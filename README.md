@@ -21,6 +21,7 @@ Below is a list of things that can be achieved using Pandas:
 2. DataFrame and Series data types
 3. Indexes
 4. Filtering
+5. Updating Rows and Columns
 
 <br>
 
