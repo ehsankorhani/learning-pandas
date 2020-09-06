@@ -22,6 +22,7 @@ Below is a list of things that can be achieved using Pandas:
 3. Indexes
 4. Filtering
 5. Updating Rows and Columns
+6. Add and Remove rows and columns
 
 <br>
 
